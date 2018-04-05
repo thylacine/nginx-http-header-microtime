@@ -1,5 +1,5 @@
 # ngx_header_microtime
-## Inject microsecond header.
+## Add a microsecond timestamp header.
 
 *This module is not distributed with the Nginx source.*
 
