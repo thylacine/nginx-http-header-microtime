@@ -1,6 +1,6 @@
 /**	Add a header containing the current epoch with microseconds.
 	Implemented solely because there exists a registered RFC5785
-	service, defined by http://phk.freebsd.dk/time/20151129.html
+	service, defined by http://phk.freebsd.dk/time/20151129/
 */
 
 #include <ngx_config.h>
